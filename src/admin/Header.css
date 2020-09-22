@@ -1,0 +1,32 @@
+.admin_header{
+    display: flex;
+    padding: 5px 15px;
+    background-color: #ccdaec;
+    box-shadow: 0px 5px 17px -7px rgba(0, 0, 0, 0.85);
+    justify-content: flex-end;
+    padding: 10px;
+    position: sticky;
+    right: 0;
+    left: 0;
+    top: 0; 
+    /* height: 50px; */
+    /* z-index: -1; */
+    
+}
+
+.admin_header__link{
+    padding: 10px;
+    display: inline-block;
+    z-index: 999;
+
+}
+.admin_header__link:hover{
+    background-color: #ccdaec;
+}
+.admin_left_header_img{
+    width: 100px;
+    object-fit: contain;
+    cursor: pointer;
+    z-index: 1;
+
+}

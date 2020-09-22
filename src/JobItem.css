@@ -1,0 +1,13 @@
+.jobitems{
+    display: flex;
+    flex-direction: column;
+    margin: 5px 10px;
+    padding: 10px;
+    box-shadow: 0px 5px 17px -7px rgba(36, 36, 105, 0.75);
+}
+.Job_description>p{
+    padding: 10px;
+    margin: 2px 10px;
+    text-align: justify;
+  text-justify: inter-word;
+}

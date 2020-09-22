@@ -1,0 +1,9 @@
+.main__dashboard{
+    display: flex;
+    flex-direction: column;
+}
+.dashboard{
+    width: 100%;
+    display: flex;
+    justify-content: center;
+}

@@ -1,0 +1,23 @@
+.job{
+    padding: 10px;
+    margin: 5px;
+    width: 300px;
+    align-items: center;
+    display: flex;
+    justify-content: space-evenly;
+    border-radius: 20px;
+    box-shadow: 0px 5px 17px -7px rgba(0, 0, 0, 0.85);
+    transition: transform 520ms ease-out;
+}
+.job:hover{
+    transform: scale(.98);
+}
+.job_inf{
+    margin:3px 10px
+}
+
+.job_inf>p{
+    margin: 0px;
+    justify-content: left;
+}
+

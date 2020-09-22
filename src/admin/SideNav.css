@@ -1,0 +1,12 @@
+.sidenav{
+    display: flex;
+    flex-direction: column;
+    position: relative;
+    left: 0;
+    max-width: 30%;
+    background-color: rgb(127, 127, 236);
+    color: white;
+    height: 900vh;
+    z-index: 999;
+
+}
